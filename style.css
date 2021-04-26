@@ -1039,4 +1039,9 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+    .portfolio-thumb
+    {
+        width: 100%;
+    }
+
 }
